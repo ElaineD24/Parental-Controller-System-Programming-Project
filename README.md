@@ -6,9 +6,9 @@ V1.0
 
 Apr 2018
 
----Yizhang Cao---
+Yizhang Cao
 
----Elaine Deng---
+Elaine Deng
 
 ---Operating System: Ubuntu (32bit) Linux 16.04
 
