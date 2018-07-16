@@ -10,6 +10,8 @@ Yizhang Cao
 
 Elaine Deng
 
+---------------------------------------------------------------
+
 ---Operating System: Ubuntu (32bit) Linux 16.04
 
 ---Compile---
