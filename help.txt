@@ -1,0 +1,26 @@
+====================================
+Web Parental Control
+Version 1.0 (Alpha) Apr 2018
+(c) Yizhang Cao & Elaine Deng
+====================================
+COMMANDS:
+
+add the website you want to block
+    -a <domain name>
+
+remove all
+    -r
+
+show this help menu
+    -h
+
+Wanna say goodbye? T^T
+    -q
+
+*****************************************************
+*                                                   *
+*                                                   *
+*                 Welcome! ^_^                      *
+*                                                   *
+*                                                   *
+*****************************************************
