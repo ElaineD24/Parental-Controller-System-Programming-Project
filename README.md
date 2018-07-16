@@ -6,30 +6,31 @@ V1.0
 
 Apr 2018
 
-Yizhang Cao
-Elaine Deng
+---Yizhang Cao---
 
-Operating System: Ubuntu (32bit) Linux 16.04
+---Elaine Deng---
 
-Compile
+---Operating System: Ubuntu (32bit) Linux 16.04
+
+---Compile---
 
 make
 
 gcc -o userspace userspace.c
 
-Installation
+---Installation---
 
 sudo insmod ParentalControl
 
-Testing
+---Testing---
 
 ./userspace
 
-Removal
+---Removal---
 
 sudo rmmod ParentalControl
 
-Description
+---Description---
 
 · Designed and Developed a Parental Controller for Linux consisting a kernel module and a user interface which allows restrictions to user specified IP addresses
 
